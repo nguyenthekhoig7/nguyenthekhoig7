@@ -1,4 +1,4 @@
-### Hi! Nice to meet you (again) 👋
+# Hi! Nice to meet you (again) 👋
 I'm Khoi, I am a senior student in **Artificial Intelligence**.
 
 I'm currently working on an object-counting project, including:
