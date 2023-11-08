@@ -4,6 +4,8 @@ I'm Khoi, I am a senior student in Artificial Intelligence.
 I'm currently working on an object-counting project, including:
   - 📷 Building a dataset, in a concise field of objects, obviously.
   - 🔬 Fine-tuning a YOLO model(and any other competitor).
+  
+<br/>
 
 #### 🗂️ More about me: 
  &nbsp; &nbsp; &nbsp; &nbsp; My resume: [`PDF`](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_20231108.pdf)
