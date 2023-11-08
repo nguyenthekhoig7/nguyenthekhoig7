@@ -5,8 +5,7 @@ I'm currently working on an object-counting project, including:
   - 🔬 Fine-tuning a YOLO model(and any other competitor).
 
 More about me: 
-- Resume: [PDF]([url](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_20231108.pdf))
-
+- Resume: [pdf]([url](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_20231108.pdf))
   
 📧 If you have similar interests, feel free to contact me at: `nguyenthekhoig7@gmail.com`.
 
