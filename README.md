@@ -3,7 +3,7 @@ I'm Khoi, I am a senior student in **Artificial Intelligence**.
 
 My profession in keywords: `Computer Vision`, `Object Detection`, `Python`, `Tensorflow`, and `Machine Learning`.
 
-I am getting familiar with the languages/frameworks: `Django channels`, `Flutter`, `and `JavaScript`.
+I am getting familiar with the languages/frameworks: `Django channels`, `Flutter`, and `JavaScript`.
 
 <br> 
 
