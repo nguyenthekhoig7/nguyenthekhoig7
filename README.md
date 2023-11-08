@@ -4,10 +4,10 @@ I'm currently working on an object-counting project, including:
   - 📷 Building a dataset, in a concise field of objects, obviously.
   - 🔬 Fine-tuning a YOLO model(and any other competitor).
 
-More about me: 
+🗂️ More about me: 
 - My resume: [PDF](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_20231108.pdf)
   
-📧 If you have similar interests, feel free to contact me at: `nguyenthekhoig7@gmail.com`.
+📫 If you have similar interests, feel free to contact me at: `nguyenthekhoig7@gmail.com`.
 
 <!--
 **nguyenthekhoig7/nguyenthekhoig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
