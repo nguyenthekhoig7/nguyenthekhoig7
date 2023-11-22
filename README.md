@@ -9,7 +9,7 @@ I am getting familiar with the languages/frameworks: `Django channels`, `Flutter
 
 **🗂️ More about me:**  [`[My resume]`](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_20231108.pdf)
 
-**📫 Contact for work:** `nguyenthekhoig7@gmail.com`.
+**📮 Contact for work:** `nguyenthekhoig7@gmail.com`.
 
 <!--
 **nguyenthekhoig7/nguyenthekhoig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
