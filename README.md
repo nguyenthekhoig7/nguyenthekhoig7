@@ -1,5 +1,5 @@
 # Hi! Nice to meet you (again) 👋
-I'm Khoi, I am graduated student in **Artificial Intelligence**.
+I'm Khoi, an AI Enginneer with experience in **Computer Vision**.
 
 My profession in keywords: `Computer Vision`, `Object Detection`, `Python`, `Tensorflow`, and `Machine Learning`.
 
