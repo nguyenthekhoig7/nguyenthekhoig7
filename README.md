@@ -7,7 +7,7 @@ I am getting familiar with the languages/frameworks: `Django channels`, `Flutter
 
 <br> 
 
-**🗂️ More about me:**  [`[My resume]`](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_20241110.pdf)
+**🗂️ More about me:**  [`[My resume]`](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_latest.pdf)
 
 **📮 Contact for work:** `nguyenthekhoig7@gmail.com`.
 
