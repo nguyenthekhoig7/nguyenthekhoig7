@@ -13,7 +13,7 @@ During my profession as **AI Engineer**, I have experience in:
 - Computer Vision: Object Detection models using YOLO
 - Big Data: Azure Databricks, SQL
 - Generative AI: Phi-3 text generation model, Stable Diffusion
-- Recommendation System: BiVAE, KNearestNeighbor
+- Recommendation System: BiVAE, KNearestNeighbors
 - MLOps: I built APIs using FastAPI and moritored training sessions on Remote Linux Machines
     
 As a career, I am looking to expanding my expertise to: `LLM-RAG models`, `multi-modal agents`,`Django web application`.
