@@ -1,4 +1,4 @@
-# Hi! Nice to meet you! 👋
+## Hi! Nice to meet you! 👋
 <br> 
 
 I'm Khoi, an AI Enginneer with experience in **Computer Vision**.
@@ -14,7 +14,7 @@ I'm Khoi, an AI Enginneer with experience in **Computer Vision**.
 
 🔗 **Find me on:** [Github](https://github.com/nguyenthekhoig7), [Linkedin](https://www.linkedin.com/in/nguyenthekhoig7/)
 
-✉️ **Contact for work:** [nguyenthekhoig7@gmail.com](mailto:nguyenthekhoig7@gmail.com) .
+✉️ **Contact for work:** [nguyenthekhoig7@gmail.com](mailto:nguyenthekhoig7@gmail.com)
 
 <!--
 **nguyenthekhoig7/nguyenthekhoig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
