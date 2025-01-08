@@ -1,11 +1,14 @@
 # Hi! Nice to meet you! 👋
+<br> 
+
 I'm Khoi, an AI Enginneer with experience in **Computer Vision**.
 
-My profession in keywords: `Object Detection`, `Pytorch`, `FastAPI`, and `SQL`.
+- My profession in keywords: `Object Detection`, `Pytorch`, `FastAPI`, and `SQL`.
 
-I am expanding my expertise to: `LLM RAG models`, `Django web application`.
+- I am expanding my expertise to: `LLM RAG models`, `Django web application`.
 
 <br> 
+
 
 📌 **See my latest  [Resume](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_latest.pdf)**
 
