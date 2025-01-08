@@ -1,11 +1,22 @@
 ## Hi! Nice to meet you! 👋
 <br> 
 
-I'm Khoi, an AI Enginneer with experience in **Computer Vision**.
+I'm **Khoi**, a Junior AI Enginneer
 
-- My profession in keywords: `Object Detection`, `Pytorch`, `FastAPI`, and `SQL`.
+I studied Artificial Intelligence at **FPT University**, some highlights:
+- I studied with 100% tuition fee scholarship
+- Graduated as Top 10 Bachelors of Batch 1, 2024, with GPA 8.91
+    - Mathematics For Machine Learning: 9.4.
+    - Probability and Statistics: 9.5.
 
-- I am expanding my expertise to: `LLM RAG models`, `Django web application`.
+During my profession as **AI Engineer**, I have experience in:
+- Computer Vision: Object Detection models using YOLO
+- Big Data: Azure Databricks, SQL
+- Generative AI: Phi-3 text generation model, Stable Diffusion
+- Recommendation System: BiVAE, KNearestNeighbor
+- MLOps: I built APIs using FastAPI and moritored training sessions on Remote Linux Machines
+    
+As a career, I am looking to expanding my expertise to: `LLM-RAG models`, `multi-modal agents`,`Django web application`.
 
 <br> 
 
