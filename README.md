@@ -1,9 +1,9 @@
 # Hi! Nice to meet you (again) 👋
 I'm Khoi, an AI Enginneer with experience in **Computer Vision**.
 
-My profession in keywords: `Computer Vision`, `Object Detection`, `Python`, `Tensorflow`, and `Machine Learning`.
+My profession in keywords: `Object Detection`, `Pytorch`, `FastAPI`, and `SQL`.
 
-I am getting familiar with the languages/frameworks: `Django channels`, `Flutter`, and `JavaScript`.
+I am getting familiar with the languages/frameworks: `LLM RAG models`, `Django web application`.
 
 <br> 
 
