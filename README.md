@@ -1,7 +1,7 @@
-## Hi! Nice to meet you! 👋
-<br> 
+<!-- ## Hi! Nice to meet you! 👋 
+<!-- <br> -->
 
-I'm **Khoi**, a Junior AI Enginneer.
+## I'm **Khoi**, a Junior AI Enginneer and Researcher.
 
 I studied Artificial Intelligence at **FPT University**, some highlights:
 - I studied with 100% tuition fee scholarship
@@ -9,7 +9,7 @@ I studied Artificial Intelligence at **FPT University**, some highlights:
     - Mathematics For Machine Learning: 9.4
     - Probability and Statistics: 9.5
 
-During my profession as **AI Engineer**, I have experience in:
+My tech stack as an **AI Engineer** includes::
 - Computer Vision: Object Detection models using YOLO
 - Big Data: Azure Databricks, SQL
 - Generative AI: Phi-3 text generation model, Stable Diffusion
@@ -21,7 +21,7 @@ As a career goal, I am looking to expanding my expertise to: `LLM-RAG models`, `
 <br> 
 
 
-📌 **See my latest  [Resume](https://nguyenthekhoig7.github.io/nguyenthekhoig7/TheKhoi_Resume_latest.pdf)**
+📌 **See my  [Porfolio](https://nguyenthekhoig7.github.io/)**
 
 🔗 **Find me on:** [Github](https://github.com/nguyenthekhoig7), [Linkedin](https://www.linkedin.com/in/nguyenthekhoig7/)
 
