@@ -16,7 +16,7 @@ During my profession as **AI Engineer**, I have experience in:
 - Recommendation System: BiVAE, KNearestNeighbors
 - MLOps: I built APIs using FastAPI and moritored training sessions on remote Linux machines
     
-As a career, I am looking to expanding my expertise to: `LLM-RAG models`, `multi-modal agents`,`Django web application`.
+As a career goal, I am looking to expanding my expertise to: `LLM-RAG models`, `multi-modal agents`,`Django web application`.
 
 <br> 
 
